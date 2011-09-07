@@ -16,7 +16,7 @@ import org.openide.util.Lookup;
 import org.openide.util.NbBundle.Messages;
 import org.openide.windows.TopComponent;
 
-@MultiViewElement.Registration(displayName = "#LBL_JME2Loader_VISUAL",
+/*@MultiViewElement.Registration(displayName = "#LBL_JME2Loader_VISUAL",
 iconBase = "net/skyebook/jme2loader/monkey.gif",
 mimeType = "application/jme",
 persistenceType = TopComponent.PERSISTENCE_NEVER,
@@ -24,7 +24,7 @@ preferredID = "JME2LoaderVisual",
 position = 2000)
 @Messages({
     "LBL_JME2Loader_VISUAL=Visual"
-})
+})*/
 public final class JME2LoaderVisualElement extends JPanel implements MultiViewElement {
 
     private JME2LoaderDataObject obj;
