@@ -14,7 +14,7 @@ public class JME2LoaderDataObject extends SpatialAssetDataObject {
 
     public JME2LoaderDataObject(FileObject pf, MultiFileLoader loader) throws DataObjectExistsException, IOException {
         super(pf, loader);
-        registerEditor("application/jme", true);
+        //registerEditor("application/jme", true);
     }
     
     /*
