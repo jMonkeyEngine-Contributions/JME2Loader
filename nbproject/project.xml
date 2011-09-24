@@ -95,6 +95,58 @@
                 <runtime-relative-path>ext/JME2Loader.jar</runtime-relative-path>
                 <binary-origin>release/modules/ext/JME2Loader.jar</binary-origin>
             </class-path-extension>
+            <class-path-extension>
+                <runtime-relative-path>ext/jme-model.jar</runtime-relative-path>
+                <binary-origin>release/modules/ext/jme-model.jar</binary-origin>
+            </class-path-extension>
+            <class-path-extension>
+                <runtime-relative-path>ext/jme.jar</runtime-relative-path>
+                <binary-origin>release/modules/ext/jme.jar</binary-origin>
+            </class-path-extension>
+            <class-path-extension>
+                <runtime-relative-path>ext/jme-swt.jar</runtime-relative-path>
+                <binary-origin>release/modules/ext/jme-swt.jar</binary-origin>
+            </class-path-extension>
+            <class-path-extension>
+                <runtime-relative-path>ext/jme-editors.jar</runtime-relative-path>
+                <binary-origin>release/modules/ext/jme-editors.jar</binary-origin>
+            </class-path-extension>
+            <class-path-extension>
+                <runtime-relative-path>ext/jme-awt.jar</runtime-relative-path>
+                <binary-origin>release/modules/ext/jme-awt.jar</binary-origin>
+            </class-path-extension>
+            <class-path-extension>
+                <runtime-relative-path>ext/jme-font.jar</runtime-relative-path>
+                <binary-origin>release/modules/ext/jme-font.jar</binary-origin>
+            </class-path-extension>
+            <class-path-extension>
+                <runtime-relative-path>ext/jme-ogrexml.jar</runtime-relative-path>
+                <binary-origin>release/modules/ext/jme-ogrexml.jar</binary-origin>
+            </class-path-extension>
+            <class-path-extension>
+                <runtime-relative-path>ext/jme-effects.jar</runtime-relative-path>
+                <binary-origin>release/modules/ext/jme-effects.jar</binary-origin>
+            </class-path-extension>
+            <class-path-extension>
+                <runtime-relative-path>ext/jme-terrain.jar</runtime-relative-path>
+                <binary-origin>release/modules/ext/jme-terrain.jar</binary-origin>
+            </class-path-extension>
+            <class-path-extension>
+                <runtime-relative-path>ext/jme-gamestates.jar</runtime-relative-path>
+                <binary-origin>release/modules/ext/jme-gamestates.jar</binary-origin>
+            </class-path-extension>
+            <class-path-extension>
+                <runtime-relative-path>ext/jme-audio.jar</runtime-relative-path>
+                <binary-origin>release/modules/ext/jme-audio.jar</binary-origin>
+            </class-path-extension>
+            <class-path-extension>
+                <runtime-relative-path>ext/jme-collada.jar</runtime-relative-path>
+                <binary-origin>release/modules/ext/jme-collada.jar</binary-origin>
+            </class-path-extension>
+            <class-path-extension>
+                <runtime-relative-path>ext/jme-scene.jar</runtime-relative-path>
+                <binary-origin>release/modules/ext/jme-scene.jar</binary-origin>
+            </class-path-extension>
         </data>
     </configuration>
 </project>
