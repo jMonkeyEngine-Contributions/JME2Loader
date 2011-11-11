@@ -1,3 +1,7 @@
+/*
+ * To change this template, choose Tools | Templates
+ * and open the template in the editor.
+ */
 package net.skyebook.jme2loader;
 
 import com.jme3.asset.AssetManager;

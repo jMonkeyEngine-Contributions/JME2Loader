@@ -7,7 +7,6 @@ and open the template in the editor.
 <MIME-resolver>
     <file>
         <ext name="jme"/>
-        <ext name="xml"/>
         <resolver mime="application/jme"/>
     </file>
 </MIME-resolver>
