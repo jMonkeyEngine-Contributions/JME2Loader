@@ -76,12 +76,4 @@
             </file>
         </folder>
     </folder>
-    <folder name="Templates">
-        <folder name="Other">
-            <file name="JME2LoaderTemplate.jme" url="JME2LoaderTemplate.jme">
-                <attr name="displayName" bundlevalue="net.skyebook.jme2loader.Bundle#Templates/Other/JME2LoaderTemplate.jme"/>
-                <attr name="template" boolvalue="true"/>
-            </file>
-        </folder>
-    </folder>
 </filesystem>
